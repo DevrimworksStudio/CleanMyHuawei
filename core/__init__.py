@@ -1,0 +1,2 @@
+# CleanMyHuawei Core Package
+
