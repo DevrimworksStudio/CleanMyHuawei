@@ -49,7 +49,7 @@ Manually classifying 200+ Android packages can be tedious. To make profile gener
 1. Open [CONTRIBUTING_PROMPT.txt](CONTRIBUTING_PROMPT.txt) located in the repository root.
 2. Copy the prompt template.
 3. Paste the contents of your `dumps/original_packages.txt` into the designated section at the bottom of the prompt.
-4. Run the prompt through your preferred AI assistant (ChatGPT, Claude, Gemini, etc.).
+4. Run the prompt through your preferred AI assistant (Codex, Claude Code, Antigravity, etc.).
 5. Save the generated JSON output into:
    ```bash
    profiles/<auto_profile_slug>.json
